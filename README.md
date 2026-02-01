@@ -1,3 +1,6 @@
+
+![Video Project 3](https://github.com/user-attachments/assets/9ca0c88d-3dd4-4dd9-803b-e2158eb1816c)
+
 ## References
 - [PoseMamba](https://github.com/nankingjing/PoseMamba)
 - [MotionBERT](https://github.com/Walter0807/MotionBERT)
