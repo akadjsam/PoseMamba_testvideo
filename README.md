@@ -1,5 +1,5 @@
 ## References
-- [PoseMamba] (https://github.com/nankingjing/PoseMamba)
+- [PoseMamba](https://github.com/nankingjing/PoseMamba)
 - [MotionBERT](https://github.com/Walter0807/MotionBERT)
 - [P-STMO](https://github.com/paTRICK-swk/P-STMO)
 - [MHFormer](https://github.com/Vegetebird/MHFormer)
